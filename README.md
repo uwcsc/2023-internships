@@ -6,4 +6,4 @@ The information contained below includes links and resources on various computer
 
 Feel free to add your contribution to this repository by creating a pull request :octocat: or filling out [this form  :memo:](https://docs.google.com/forms/d/e/1FAIpQLSdBOsVzDMJDbuNjWzBvTDoYZa19ru13PE_Pq09a3R0lYgFwMg/viewform)
 
-Good luck on your co-ops 🥳
+We hope you find the information contained below useful and good luck on your co-ops 🥳
