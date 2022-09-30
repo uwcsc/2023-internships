@@ -7,3 +7,17 @@ The information contained below includes links and resources on various computer
 Feel free to add your contribution to this repository by creating a pull request :octocat: or filling out [this form  :memo:](https://docs.google.com/forms/d/e/1FAIpQLSdBOsVzDMJDbuNjWzBvTDoYZa19ru13PE_Pq09a3R0lYgFwMg/viewform)
 
 We hope you find the information contained below useful and good luck on your co-ops 🥳
+
+| Company Name | Position | Location | Notes |
+|--------------|----------|----------|-------|
+| [Google](https://careers.google.com/jobs/results/97935383573996230-software-engineering-intern-bs-summer-2023/) | SWE | Multiple locations | Posting is for US pool |
+
+
+### Job Search Resources
+| Link | Notes |
+|------|-------|
+| [levels.fyi](https://www.levels.fyi/internships/) | General list of internships with salary and housing notes. |
+| [S23 Internships](https://github.com/pittcsc/Summer2023-Internships) | Externally sourced list of internships for Summer 2023 term |
+| [cscareers.dev](https://www.cscareers.dev/) | Tech community that releases internships, provides process tracking on applications (Discord link found at the bottom) |
+
+#### Contributors
