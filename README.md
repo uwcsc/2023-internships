@@ -6,12 +6,12 @@ The information contained below includes links and resources on various computer
 
 Feel free to add your contribution to this repository by creating a pull request :octocat: or filling out [this form  :memo:](https://docs.google.com/forms/d/e/1FAIpQLSf7yojz5K7hE6PFDrF7SVevRuYp7hPdzRMl23WrPzLUQDDURw/viewform)
 
-We hope you find the information contained below useful and good luck on your co-ops 🥳
+We hope you find the information contained below useful and good luck on your co-ops 🥳<br/>  <br/>
 
+### Postings
 | Company Name | Position | Location | Valid Terms | Notes |
 |--------------|----------|----------|-------------|-------|
 | [Google](https://careers.google.com/jobs/results/97935383573996230-software-engineering-intern-bs-summer-2023/) | SWE | Multiple locations | S23 | Posting is for US pool |
-
 
 ### Job Search Resources
 | Link | Notes |
