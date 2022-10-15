@@ -41,7 +41,10 @@ We hope you find the information contained below useful and good luck on your co
 | [Unity](https://careers.unity.com/position/2023-software-engineer-summer-internship/4616966?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | SWE | Toronto, ON | S23 | 
 | [Vector Institute](https://talenthub.vectorinstitute.ai/jobs/156114087-applied-machine-learning-intern-at-vector-institute?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Applied ML | Toronto, ON | W23 | |
 | [Ribbit](https://flyribbit.applytojobs.ca/engineering/14771?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Robotics | Toronto, ON | W23 | | 
-
+| [Nvidia](https://nvidia.wd5.myworkdayjobs.com/UniversityJobs/1/refreshFacet/318c8bb6f553100021d223d9780d30be)| Multiple Positions | Canada or USA | S23 | 
+| [Palantir](https://jobs.lever.co/palantir/?commitment=Internship) | SWE | London, New York, Palo Alto, Washington | S23 | 2024 Grad | 
+| [Zendesk](https://jobs.zendesk.com/us/en/job/R22858/2023-Summer-Intern-Software-Engineering) | SWE | Remote QC | S23 | |
+| [Brex](https://www.brex.com/careers/6369124002) | SWE | Remote | S23 | 2024 Grad |
 
 
 ## Job Search Resources
@@ -51,5 +54,6 @@ We hope you find the information contained below useful and good luck on your co
 | [S23 Internships](https://github.com/pittcsc/Summer2023-Internships) | Externally sourced list of internships for Summer 2023 term |
 | [cscareers.dev](https://www.cscareers.dev/) | Tech community that releases internships, provides process tracking on applications (Discord link found at the bottom) |
 | [S23 Canada Internships](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2023) | Externally sourced list of Canadian internships for Summer 2023 term | 
+| [Work at a startup](https://www.workatastartup.com/internships) | Various startup internship postings |
 
 ### Contributors
