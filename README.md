@@ -50,5 +50,6 @@ We hope you find the information contained below useful and good luck on your co
 | [levels.fyi](https://www.levels.fyi/internships/) | General list of internships with salary and housing notes. |
 | [S23 Internships](https://github.com/pittcsc/Summer2023-Internships) | Externally sourced list of internships for Summer 2023 term |
 | [cscareers.dev](https://www.cscareers.dev/) | Tech community that releases internships, provides process tracking on applications (Discord link found at the bottom) |
+| [S23 Canada Internships](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2023) | Externally sourced list of Canadian internships for Summer 2023 term | 
 
 ### Contributors
