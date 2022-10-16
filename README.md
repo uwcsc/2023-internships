@@ -45,6 +45,7 @@ We hope you find the information contained below useful and good luck on your co
 | [Palantir](https://jobs.lever.co/palantir/?commitment=Internship) | SWE | London, New York, Palo Alto, Washington | S23 | 2024 Grad | 
 | [Zendesk](https://jobs.zendesk.com/us/en/job/R22858/2023-Summer-Intern-Software-Engineering) | SWE | Remote QC | S23 | |
 | [Brex](https://www.brex.com/careers/6369124002) | SWE | Remote | S23 | 2024 Grad |
+| [Nintendo](https://careers.nintendo.com/job-openings/?loc=all?cat=Internship) | Several IT Positions | Redmond, WA | S23 | 2024 Grad | 
 
 
 ## Job Search Resources
