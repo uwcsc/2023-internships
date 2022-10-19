@@ -11,6 +11,7 @@ We hope you find the information contained below useful and good luck on your co
 ## Postings
 | Company Name | Position | Location | Valid Terms | Notes |
 |--------------|----------|----------|-------------|-------|
+| [AMD](https://jobs.amd.com/job/San-Jose-Spring-2023-Software-Development-Co-Op-Intern-Cali/949601300/) | SWE | San Jose, CA | W23 | 3-6 months |
 | [Google](https://careers.google.com/jobs/results/97935383573996230-software-engineering-intern-bs-summer-2023/) | SWE | Multiple locations | S23 | Posting is for US pool |
 | [Khan Academy](https://boards.greenhouse.io/khanacademy/jobs/4586206) | SWE | USA or Canada | S23 | Remote Friendly |
 | [DoorDash](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | SWE | Toronto, ON | S23 | |
@@ -45,6 +46,8 @@ We hope you find the information contained below useful and good luck on your co
 | [Palantir](https://jobs.lever.co/palantir/?commitment=Internship) | SWE | London, New York, Palo Alto, Washington | S23 | 2024 Grad | 
 | [Zendesk](https://jobs.zendesk.com/us/en/job/R22858/2023-Summer-Intern-Software-Engineering) | SWE | Remote QC | S23 | |
 | [Brex](https://www.brex.com/careers/6369124002) | SWE | Remote | S23 | 2024 Grad |
+| [PagerDuty](https://boards.greenhouse.io/pagerduty/jobs/4530303004) | Android Developer | Remote Canada | W23 | |
+| [Top Hat](https://jobs.lever.co/tophat/abafb10d-5a52-480e-b48f-1502385c1fa4) | Mobile Developer | Remote Canada | W23 | |
 
 
 ## Job Search Resources
