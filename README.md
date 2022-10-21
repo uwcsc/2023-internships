@@ -45,6 +45,9 @@ We hope you find the information contained below useful and good luck on your co
 | [Palantir](https://jobs.lever.co/palantir/?commitment=Internship) | SWE | London, New York, Palo Alto, Washington | S23 | 2024 Grad | 
 | [Zendesk](https://jobs.zendesk.com/us/en/job/R22858/2023-Summer-Intern-Software-Engineering) | SWE | Remote QC | S23 | |
 | [Brex](https://www.brex.com/careers/6369124002) | SWE | Remote | S23 | 2024 Grad |
+| [RBC](https://jobs.rbc.com/ca/en/amplify) | Multiple (Amplify) | Toronto, ON | S23 | August 2023 - June 2024 Grad |
+| [Uber](https://university-uber.icims.com/jobs/116847/2023-software-engineer-internship/job) | SWE | San Francisco, CA | S23 | |
+| [Waymo](https://waymo.com/joinus/4612871/?gh_src=4f13ec551us) | SWE | Mountain View, CA | S23 | |
 
 
 ## Job Search Resources
