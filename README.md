@@ -4,7 +4,9 @@ This repository is maintained and updated by [Waterloo's Computer Science Club :
 
 The information contained below includes links and resources on various computer science and software engineering related internships for the 2023 job search term :man_technologist: :woman_technologist: (Winter '23, Spring '23 & Fall '23)
 
-Feel free to add your contribution to this repository by creating a pull request :octocat: or filling out [this form  :memo:](https://docs.google.com/forms/d/e/1FAIpQLSf7yojz5K7hE6PFDrF7SVevRuYp7hPdzRMl23WrPzLUQDDURw/viewform)
+Feel free to add your contribution to this repository by creating a pull request :octocat: or filling out [this form  :memo:](https://docs.google.com/forms/d/e/1FAIpQLSf7yojz5K7hE6PFDrF7SVevRuYp7hPdzRMl23WrPzLUQDDURw/viewform). 
+
+Please add postings in alphabetical order by company name!
 
 We hope you find the information contained below useful and good luck on your co-ops 🥳
 
@@ -48,7 +50,10 @@ We hope you find the information contained below useful and good luck on your co
 | [Brex](https://www.brex.com/careers/6369124002) | SWE | Remote | S23 | 2024 Grad |
 | [PagerDuty](https://boards.greenhouse.io/pagerduty/jobs/4530303004) | Android Developer | Remote Canada | W23 | |
 | [Top Hat](https://jobs.lever.co/tophat/abafb10d-5a52-480e-b48f-1502385c1fa4) | Mobile Developer | Remote Canada | W23 | |
-
+| [Nintendo](https://careers.nintendo.com/job-openings/?loc=all?cat=Internship) | Several IT Positions | Redmond, WA | S23 | 2024 Grad | 
+| [RBC](https://jobs.rbc.com/ca/en/amplify) | Multiple (Amplify) | Toronto, ON | S23 | August 2023 - June 2024 Grad |
+| [Uber](https://university-uber.icims.com/jobs/116847/2023-software-engineer-internship/job) | SWE | San Francisco, CA | S23 | |
+| [Waymo](https://waymo.com/joinus/4612871/?gh_src=4f13ec551us) | SWE | Mountain View, CA | S23 | |
 
 ## Job Search Resources
 | Link | Notes |
