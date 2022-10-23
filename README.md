@@ -4,7 +4,9 @@ This repository is maintained and updated by [Waterloo's Computer Science Club :
 
 The information contained below includes links and resources on various computer science and software engineering related internships for the 2023 job search term :man_technologist: :woman_technologist: (Winter '23, Spring '23 & Fall '23)
 
-Feel free to add your contribution to this repository by creating a pull request :octocat: or filling out [this form  :memo:](https://docs.google.com/forms/d/e/1FAIpQLSf7yojz5K7hE6PFDrF7SVevRuYp7hPdzRMl23WrPzLUQDDURw/viewform)
+Feel free to add your contribution to this repository by creating a pull request :octocat: or filling out [this form  :memo:](https://docs.google.com/forms/d/e/1FAIpQLSf7yojz5K7hE6PFDrF7SVevRuYp7hPdzRMl23WrPzLUQDDURw/viewform). 
+
+Please add postings in alphabetical order by company name!
 
 We hope you find the information contained below useful and good luck on your co-ops 🥳
 
