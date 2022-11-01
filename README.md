@@ -55,6 +55,8 @@ We hope you find the information contained below useful and good luck on your co
 | [Waymo](https://waymo.com/joinus/4612871/?gh_src=4f13ec551us) | SWE | Mountain View, CA | S23 | |
 | [Zendesk](https://jobs.zendesk.com/us/en/job/R22858/2023-Summer-Intern-Software-Engineering) | SWE | Remote QC | S23 | |
 
+[🔼 Back to Top](https://github.com/uwcsc/2023-internships#postings)
+
 ## Job Search Resources
 | Link | Notes |
 |------|-------|
