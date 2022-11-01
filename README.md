@@ -43,7 +43,7 @@ We hope you find the information contained below useful and good luck on your co
 | [Ribbit](https://flyribbit.applytojobs.ca/engineering/14771?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Robotics | Toronto, ON | W23 | | 
 | [Robinhood](https://app.ripplematch.com/job/robinhood/55eaa246/?from_page=company_branded_page) | IOS SWE | USA | S23 | |
 | [Robinhood](https://app.ripplematch.com/job/robinhood/7fc0158a/?from_page=company_branded_page) | Web SWE | USA | S23 | |
-| [Robinhood](https://app.ripplematch.com/job/robinhood/b16b1136/?from_page=company_branded_page) | Backend SWE | USA | S23 | |
+| [Robinhood](https://app.ripplematch.com/job/robinhood/b16b1136/?from_page=company_branded_page) | Backend SWE | USA | S23 | 2023-2025 Grad |
 | [Robinhood](https://app.ripplematch.com/job/robinhood/e93c5366/?from_page=company_branded_page) | Android SWE | USA | S23 | |
 | [Roblox](https://jobs.roblox.com/careers/job?pid=137451585492&recommended=1)| SWE | USA | S23 | |
 | [Rogers Communications](https://jobs.rogers.com/job/Montreal-Winter-2023-Co-op-Software-Developer-QC/944332800/?feedId=24800&utm_source=Indeed&utm_campaign=Rogers_OrganicFeeds&jobPipeline=Indeed) | SWE | Montreal, QC | W23 | |
