@@ -48,6 +48,7 @@ We hope you find the information contained below useful and good luck on your co
 | [Roblox](https://jobs.roblox.com/careers/job?pid=137451585492&recommended=1)| SWE | USA | S23 | |
 | [Rogers Communications](https://jobs.rogers.com/job/Montreal-Winter-2023-Co-op-Software-Developer-QC/944332800/?feedId=24800&utm_source=Indeed&utm_campaign=Rogers_OrganicFeeds&jobPipeline=Indeed) | SWE | Montreal, QC | W23 | |
 | [Splunk](https://jobs.jobvite.com/careers/splunk/job/oYc5kfwj?__jvst=Job%20Board&__jvsd=Indeed) | Backend SWE | Vancouver, BC | W23 | |
+| [Tesla](https://www.tesla.com/careers/search/?query=Software%20Engineering&department=2&type=3&site=US) | Multiple (SWE) | Palo Alto CA, Austin TX | W23, S23 | |
 | [Top Hat](https://jobs.lever.co/tophat/abafb10d-5a52-480e-b48f-1502385c1fa4) | Mobile Developer | Remote Canada | W23 | |
 | [Uber](https://university-uber.icims.com/jobs/116847/2023-software-engineer-internship/job) | SWE | San Francisco, CA | S23 | |
 | [Unity](https://careers.unity.com/position/2023-software-engineer-summer-internship/4616966?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | SWE | Toronto, ON | S23 | 
