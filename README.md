@@ -29,6 +29,7 @@ We hope you find the information contained below useful and good luck on your co
 | [Intact](https://careers.intactfc.com/ca/en/job/IFCOUSR130403INTACTINSURANCEENCA/AI-Backend-Developer-4-Month-Co-op-Internship-Winter-2023?utm_source=indeed&utm_medium=phenom-feeds)|AI Backend Developer | Montreal, QC | W23 ||
 | [Interac](https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Data-Science-Intern_REQ-471-1) | Data Science | Toronto, ON | S23 | |
 | [Interac](https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Software-Developer-Intern_REQ-468) | SWE | Toronto, ON | S23 | |
+| [Interac](https://interac.wd3.myworkdayjobs.com/en-US/Interac)| Data Science | Toronto | S23 | |
 | [Khan Academy](https://boards.greenhouse.io/khanacademy/jobs/4586206) | SWE | USA or Canada | S23 | Remote Friendly |
 | [Microsoft](https://careers.microsoft.com/students/us/en/job/1368428/Software-Engineering-Intern-Opportunities-for-University-Students-Canada) | SWE | Vancouver, BC | S23 ||
 | [Nasdaq](https://nasdaq.wd1.myworkdayjobs.com/en-US/US_External_Career_Site/job/Software-Engineer-ing-Intern---US---Canada-2023-Internship_R0011592)| SWE | USA or Canada | S23 | |
@@ -44,6 +45,8 @@ We hope you find the information contained below useful and good luck on your co
 | [Respawn](https://www.respawn.com/careers/software-engineer-intern-3)| SWE | Los Angeles CA, Remote | S23 | Grad Dec 2023 - May 2024 |
 | [Respawn](https://www.respawn.com/careers/software-engineer-intern-4)| SWE | Los Angeles CA, Remote | S23 | Grad Dec 2023 - May 2024 |
 | [Respawn](https://www.respawn.com/careers/mtx-software-engineer-intern)| SWE | Los Angeles CA, Remote | S23 | Grad Dec 2023 - May 2024 |
+| [Respawn](https://www.respawn.com/careers/gameplay-software-engineer-intern)| SWE | Los Angeles CA, Remote | S23 | Grad Dec 2023 - May 2024 |
+| [Respawn](https://www.respawn.com/careers/software-engineer-intern-star-wars-jedi-survivor)| SWE | Los Angeles CA, Remote | S23 | Grad Dec 2023 - May 2024 |
 | [Ribbit](https://flyribbit.applytojobs.ca/engineering/14771?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Robotics | Toronto, ON | W23 | | 
 | [Robinhood](https://app.ripplematch.com/job/robinhood/55eaa246/?from_page=company_branded_page) | IOS SWE | USA | S23 | Grad Dec 2023 - Jul 2025 |
 | [Robinhood](https://app.ripplematch.com/job/robinhood/7fc0158a/?from_page=company_branded_page) | Web SWE | USA | S23 | Grad Dec 2023 - Jul 2025 |
