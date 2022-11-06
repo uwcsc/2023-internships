@@ -40,6 +40,7 @@ We hope you find the information contained below useful and good luck on your co
 | [Palantir](https://jobs.lever.co/palantir/?commitment=Internship) | SWE | London, New York, Palo Alto, Washington | S23 | 2024 Grad | 
 | [Patreon](https://boards.greenhouse.io/patreon/jobs/4606412)| SWE | New York, NY or San Francisco, CA | S23 | |
 | [RBC](https://jobs.rbc.com/ca/en/amplify) | Multiple (Amplify) | Toronto, ON | S23 | August 2023 - June 2024 Grad |
+| [Red Hat](https://us-redhat.icims.com/jobs/97300/software-engineering-internship/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | SWE | Toronto, ON | S23 | |
 | [Ribbit](https://flyribbit.applytojobs.ca/engineering/14771?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Robotics | Toronto, ON | W23 | | 
 | [Robinhood](https://app.ripplematch.com/job/robinhood/55eaa246/?from_page=company_branded_page) | IOS SWE | USA | S23 | |
 | [Robinhood](https://app.ripplematch.com/job/robinhood/7fc0158a/?from_page=company_branded_page) | Web SWE | USA | S23 | |
