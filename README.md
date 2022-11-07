@@ -4,7 +4,7 @@ This repository is maintained and updated by [Waterloo's Computer Science Club :
 
 The information contained below includes links and resources on various computer science and software engineering related internships for the 2023 job search term :man_technologist: :woman_technologist: (Winter '23, Spring '23 & Fall '23)
 
-Feel free to add your contribution to this repository by creating a pull request :octocat: or filling out [this form  :memo:](https://docs.google.com/forms/d/e/1FAIpQLSf7yojz5K7hE6PFDrF7SVevRuYp7hPdzRMl23WrPzLUQDDURw/viewform).
+Feel free to add your contribution to this repository by creating a pull request :octocat: or filling out [this form  :memo:](https://docs.google.com/forms/d/e/1FAIpQLSf7yojz5K7hE6PFDrF7SVevRuYp7hPdzRMl23WrPzLUQDDURw/viewform)
 
 Please add postings in alphabetical order by company name!
 
@@ -40,14 +40,16 @@ We hope you find the information contained below useful and good luck on your co
 | [Palantir](https://jobs.lever.co/palantir/?commitment=Internship) | SWE | London, New York, Palo Alto, Washington | S23 | 2024 Grad |
 | [Patreon](https://boards.greenhouse.io/patreon/jobs/4606412)| SWE | New York, NY or San Francisco, CA | S23 | |
 | [RBC](https://jobs.rbc.com/ca/en/amplify) | Multiple (Amplify) | Toronto, ON | S23 | August 2023 - June 2024 Grad |
-| [Ribbit](https://flyribbit.applytojobs.ca/engineering/14771?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Robotics | Toronto, ON | W23 | |
-| [Robinhood](https://app.ripplematch.com/job/robinhood/55eaa246/?from_page=company_branded_page) | IOS SWE | USA | S23 | |
-| [Robinhood](https://app.ripplematch.com/job/robinhood/7fc0158a/?from_page=company_branded_page) | Web SWE | USA | S23 | |
-| [Robinhood](https://app.ripplematch.com/job/robinhood/b16b1136/?from_page=company_branded_page) | Backend SWE | USA | S23 | |
-| [Robinhood](https://app.ripplematch.com/job/robinhood/e93c5366/?from_page=company_branded_page) | Android SWE | USA | S23 | |
+| [Red Hat](https://us-redhat.icims.com/jobs/97300/software-engineering-internship/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | SWE | Toronto, ON | S23 | |
+| [Ribbit](https://flyribbit.applytojobs.ca/engineering/14771?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | Robotics | Toronto, ON | W23 | | 
+| [Robinhood](https://app.ripplematch.com/job/robinhood/55eaa246/?from_page=company_branded_page) | IOS SWE | USA | S23 | Grad Dec 2023 - Jul 2025 |
+| [Robinhood](https://app.ripplematch.com/job/robinhood/7fc0158a/?from_page=company_branded_page) | Web SWE | USA | S23 | Grad Dec 2023 - Jul 2025 |
+| [Robinhood](https://app.ripplematch.com/job/robinhood/b16b1136/?from_page=company_branded_page) | Backend SWE | USA | S23 | 2023-2025 Grad |
+| [Robinhood](https://app.ripplematch.com/job/robinhood/e93c5366/?from_page=company_branded_page) | Android SWE | USA | S23 | Grad Dec 2023 - Jul 2025 |
 | [Roblox](https://jobs.roblox.com/careers/job?pid=137451585492&recommended=1)| SWE | USA | S23 | |
 | [Rogers Communications](https://jobs.rogers.com/job/Montreal-Winter-2023-Co-op-Software-Developer-QC/944332800/?feedId=24800&utm_source=Indeed&utm_campaign=Rogers_OrganicFeeds&jobPipeline=Indeed) | SWE | Montreal, QC | W23 | |
 | [Splunk](https://jobs.jobvite.com/careers/splunk/job/oYc5kfwj?__jvst=Job%20Board&__jvsd=Indeed) | Backend SWE | Vancouver, BC | W23 | |
+| [Tesla](https://www.tesla.com/careers/search/?query=Software%20Engineering&department=2&type=3&site=US) | Multiple (SWE) | Palo Alto CA, Austin TX | W23, S23 | |
 | [Top Hat](https://jobs.lever.co/tophat/abafb10d-5a52-480e-b48f-1502385c1fa4) | Mobile Developer | Remote Canada | W23 | |
 | [Uber](https://university-uber.icims.com/jobs/116847/2023-software-engineer-internship/job) | SWE | San Francisco, CA | S23 | |
 | [Unity](https://careers.unity.com/position/2023-software-engineer-summer-internship/4616966?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | SWE | Toronto, ON | S23 |
@@ -55,10 +57,12 @@ We hope you find the information contained below useful and good luck on your co
 | [Waymo](https://waymo.com/joinus/4612871/?gh_src=4f13ec551us) | SWE | Mountain View, CA | S23 | |
 | [Zendesk](https://jobs.zendesk.com/us/en/job/R22858/2023-Summer-Intern-Software-Engineering) | SWE | Remote QC | S23 | |
 
+[🔼 Back to Top](https://github.com/uwcsc/2023-internships#postings)
+
 ## Job Search Resources
 | Link | Notes |
 |------|-------|
-| [levels.fyi](https://www.levels.fyi/internships/) | General list of internships with salary and housing notes. |
+| [levels.fyi](https://www.levels.fyi/internships/) | General list of internships with salary and housing notes |
 | [S23 Internships](https://github.com/pittcsc/Summer2023-Internships) | Externally sourced list of internships for Summer 2023 term |
 | [cscareers.dev](https://www.cscareers.dev/) | Tech community that releases internships, provides process tracking on applications (Discord link found at the bottom) |
 | [S23 Canada Internships](https://github.com/jenndryden/Canadian-Tech-Internships-Summer-2023) | Externally sourced list of Canadian internships for Summer 2023 term |
