@@ -39,6 +39,7 @@ We hope you find the information contained below useful and good luck on your co
 | [Robinhood](https://app.ripplematch.com/job/robinhood/b16b1136/?from_page=company_branded_page) | Backend SWE | USA | S23 | 2023-2025 Grad |
 | [Robinhood](https://app.ripplematch.com/job/robinhood/e93c5366/?from_page=company_branded_page) | Android SWE | USA | S23 | Grad Dec 2023 - Jul 2025 |
 | [Rogers Communications](https://jobs.rogers.com/job/Montreal-Winter-2023-Co-op-Software-Developer-QC/944332800/?feedId=24800&utm_source=Indeed&utm_campaign=Rogers_OrganicFeeds&jobPipeline=Indeed) | SWE | Montreal, QC | W23 | |
+| [Snap](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2023-Software-Engineer-Intern_R0028836-1) | SWE | Los Angeles, Seattle, Palo Alto, New York | S23 | |
 | [Splunk](https://jobs.jobvite.com/careers/splunk/job/oYc5kfwj?__jvst=Job%20Board&__jvsd=Indeed) | Backend SWE | Vancouver, BC | W23 | |
 | [Uber](https://university-uber.icims.com/jobs/116847/2023-software-engineer-internship/job) | SWE | San Francisco, CA | S23 | |
 | [Unity](https://careers.unity.com/position/2023-software-engineer-summer-internship/4616966?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | SWE | Toronto, ON | S23 |
