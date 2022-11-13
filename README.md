@@ -44,7 +44,14 @@ We hope you find the information contained below useful and good luck on your co
 | [Unity](https://careers.unity.com/position/2023-software-engineer-summer-internship/4616966?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | SWE | Toronto, ON | S23 |
 | [Waymo](https://waymo.com/joinus/4612871/?gh_src=4f13ec551us) | SWE | Mountain View, CA | S23 | |
 
+
+<div align="center" >
+<h3>
+
 [🔼 Back to Top](https://github.com/uwcsc/2023-internships#postings)
+
+</h3>
+</div>
 
 ## Job Search Resources
 | Link | Notes |
