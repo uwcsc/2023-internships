@@ -69,3 +69,8 @@ We hope you find the information contained below useful and good luck on your co
 | [Work at a startup](https://www.workatastartup.com/internships) | Various startup internship postings |
 
 ### Contributors
+
+<a href="https://github.com/uwcsc/2023-internships/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=uwcsc/2023-internships&columns=24&max=480" />
+</a>
+<!-- *Made with [contrib.rocks](https://contrib.rocks).* -->
