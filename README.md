@@ -14,6 +14,7 @@ We hope you find the information contained below useful and good luck on your co
 | Company Name | Position | Location | Valid Terms | Notes |
 |--------------|----------|----------|-------------|-------|
 | [Amazon](https://www.amazon.jobs/en/jobs/2114265/software-development-engineer-intern-2023-canada?dclid=CI3ekueIyPoCFctL1Qod0rkIew&iis=Job+Posting&iisn=Indeed+%28Free+Posting%29&mode=job&utm_campaign=all_amazon&utm_content=organic&utm_medium=job_aggregator&utm_source=indeed.com) | SWE | Vancouver, BC | W23, S23, F23 | |
+| [Amazon Robotics](https://www.amazon.jobs/en/jobs/2161874/amazon-robotics-software-development-engineer-sde-co-op-spring-2023?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | SWE | Toronto, ON | W23, S23 | 8-month co-op |
 | [Autodesk](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/AMER---Canada---Quebec---Montreal---10-Rue-Duke/Intern--Software-Engineer--Winter-2023-_22WD63830-2) | SWE | Toronto, ON or Montreal, QC | W23 | |
 | [Brex](https://www.brex.com/careers/6369124002) | SWE | Remote | S23 | 2024 Grad |
 | [DoorDash](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | SWE | Toronto, ON | S23 | |
@@ -47,6 +48,7 @@ We hope you find the information contained below useful and good luck on your co
 | [Robinhood](https://app.ripplematch.com/job/robinhood/e93c5366/?from_page=company_branded_page) | Android SWE | USA | S23 | Grad Dec 2023 - Jul 2025 |
 | [Rogers Communications](https://jobs.rogers.com/job/Montreal-Winter-2023-Co-op-Software-Developer-QC/944332800/?feedId=24800&utm_source=Indeed&utm_campaign=Rogers_OrganicFeeds&jobPipeline=Indeed) | SWE | Montreal, QC | W23 | |
 | [Snap](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2023-Software-Engineer-Intern_R0028836-1) | SWE | Los Angeles, Seattle, Palo Alto, New York | S23 | |
+| [Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS6399242002EXTERNALENUS/Software-Engineer-Intern-Toronto-Summer-2023?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62) | SWE | Toronto, ON | S23 | 3rd/4th year |
 | [Splunk](https://jobs.jobvite.com/careers/splunk/job/oYc5kfwj?__jvst=Job%20Board&__jvsd=Indeed) | Backend SWE | Vancouver, BC | W23 | |
 | [Uber](https://university-uber.icims.com/jobs/116847/2023-software-engineer-internship/job) | SWE | San Francisco, CA | S23 | |
 | [Unity](https://careers.unity.com/position/2023-software-engineer-summer-internship/4616966?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | SWE | Toronto, ON | S23 |
