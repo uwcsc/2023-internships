@@ -34,7 +34,6 @@ We hope you find the information contained below useful and good luck on your co
 | [PagerDuty](https://boards.greenhouse.io/pagerduty/jobs/4530303004) | Android Developer | Remote Canada | W23 | |
 | [Palantir](https://jobs.lever.co/palantir/?commitment=Internship) | SWE | London, New York, Palo Alto, Washington | S23 | 2024 Grad |
 | [Patreon](https://boards.greenhouse.io/patreon/jobs/4606412)| SWE | New York, NY or San Francisco, CA | S23 | |
-| [RBC](https://jobs.rbc.com/ca/en/amplify) | Multiple (Amplify) | Toronto, ON | S23 | August 2023 - June 2024 Grad |
 | [Red Hat](https://us-redhat.icims.com/jobs/97300/software-engineering-internship/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | SWE | Toronto, ON | S23 | |
 | [Replit](https://jobs.ashbyhq.com/replit/a58449ef-4cc9-4959-a878-ab0890cb1e01)| SWE | USA or Canada | S23 | Application closes on December 21, 2022 |
 | [Respawn](https://www.respawn.com/careers/software-engineer-intern-3)| SWE | Los Angeles CA, Remote | S23 | Grad Dec 2023 - May 2024 |
@@ -55,6 +54,9 @@ We hope you find the information contained below useful and good luck on your co
 | [Unity](https://careers.unity.com/position/2023-software-engineer-summer-internship/4616966?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | SWE | Toronto, ON | S23 |
 | [Vidyard](https://boards.greenhouse.io/vidyard/jobs/4730019) | SWE | Remote Canada | S23 | Applications open in December, successful applicants notified in January 2023|
 | [Waymo](https://waymo.com/joinus/4612871/?gh_src=4f13ec551us) | SWE | Mountain View, CA | S23 | |
+| [RBC](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs) | Multiple | Toronto, ON | S23 |  |
+| [Scotiabank](https://jobs.scotiabank.com/search/?createNewAlert=false&q=velocity&locationsearch=Toronto%2C+ON%2C+CA) | Multiple(Velocity) | Toronto, ON | S23 |  |
+| [BMO](https://bmo.wd3.myworkdayjobs.com/en-US/External?company=99ba898c88ac011c8a873c01f2016c06&Country=a30a87ed25634629aa6c3958aa2b91ea&jobFamilyGroup=c3170091f3cd01a93a216b6ad000d820) | Multiple | Toronto, ON | S23 |  |
 
 
 <div align="center" >
