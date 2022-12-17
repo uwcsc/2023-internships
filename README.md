@@ -16,6 +16,7 @@ We hope you find the information contained below useful and good luck on your co
 | [Amazon](https://www.amazon.jobs/en/jobs/2114265/software-development-engineer-intern-2023-canada?dclid=CI3ekueIyPoCFctL1Qod0rkIew&iis=Job+Posting&iisn=Indeed+%28Free+Posting%29&mode=job&utm_campaign=all_amazon&utm_content=organic&utm_medium=job_aggregator&utm_source=indeed.com) | SWE | Vancouver, BC | W23, S23, F23 | |
 | [Amazon Robotics](https://www.amazon.jobs/en/jobs/2161874/amazon-robotics-software-development-engineer-sde-co-op-spring-2023?cmpid=SPLICX0248M&ss=paid&utm_campaign=cxro&utm_content=job_posting&utm_medium=social_media&utm_source=linkedin.com) | SWE | Toronto, ON | W23, S23 | 8-month co-op |
 | [Autodesk](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/AMER---Canada---Quebec---Montreal---10-Rue-Duke/Intern--Software-Engineer--Winter-2023-_22WD63830-2) | SWE | Toronto, ON or Montreal, QC | W23 | |
+| [BMO](https://bmo.wd3.myworkdayjobs.com/en-US/External?company=99ba898c88ac011c8a873c01f2016c06&Country=a30a87ed25634629aa6c3958aa2b91ea&jobFamilyGroup=c3170091f3cd01a93a216b6ad000d820) | Multiple | Toronto, ON | S23 |  |
 | [Brex](https://www.brex.com/careers/6369124002) | SWE | Remote | S23 | 2024 Grad |
 | [DoorDash](https://boards.greenhouse.io/doordash/jobs/4560283?gh_jid=4560283&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | SWE | Toronto, ON | S23 | |
 | [Dropbox](https://www.dropbox.com/jobs/listing/4380645?etd=LAFFER2UEHPRBMRQMBLKPPNZWXWPSGKUW5VCCN4UCV4HYFMMMYMFF5YFNVFWW4JM7YCJ3HLEFWVNDBXGJFD7S2TJAU5SU6AHIDIKWZB4IPCE2BWUZO6EQTCBISLFPR426EWUSF6IAOCGS%3d%3d%3d&piq_uuid=ba8fabc5-8e3b-4b70-9fd0-d3a54c78949e&clickuid=46428153212&pl_publisherid={%22ittk%22:%22ETI21OOTSV%22}&gh_src=e28a2e5d1us) | SWE | Remote USA or Canada | S23 | |
@@ -34,6 +35,7 @@ We hope you find the information contained below useful and good luck on your co
 | [PagerDuty](https://boards.greenhouse.io/pagerduty/jobs/4530303004) | Android Developer | Remote Canada | W23 | |
 | [Palantir](https://jobs.lever.co/palantir/?commitment=Internship) | SWE | London, New York, Palo Alto, Washington | S23 | 2024 Grad |
 | [Patreon](https://boards.greenhouse.io/patreon/jobs/4606412)| SWE | New York, NY or San Francisco, CA | S23 | |
+| [RBC](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs) | Multiple | Toronto, ON | S23 |  |
 | [Red Hat](https://us-redhat.icims.com/jobs/97300/software-engineering-internship/job?hub=7&%26%3Fmode=job&%26iis=Job%2BBoard&%26iisn=LinkedIn%2BPosting&mobile=false&width=1140&height=500&bga=true&needsRedirect=false&jan1offset=-300&jun1offset=-240) | SWE | Toronto, ON | S23 | |
 | [Replit](https://jobs.ashbyhq.com/replit/a58449ef-4cc9-4959-a878-ab0890cb1e01)| SWE | USA or Canada | S23 | Application closes on December 21, 2022 |
 | [Respawn](https://www.respawn.com/careers/software-engineer-intern-3)| SWE | Los Angeles CA, Remote | S23 | Grad Dec 2023 - May 2024 |
@@ -47,6 +49,7 @@ We hope you find the information contained below useful and good luck on your co
 | [Robinhood](https://app.ripplematch.com/job/robinhood/b16b1136/?from_page=company_branded_page) | Backend SWE | USA | S23 | 2023-2025 Grad |
 | [Robinhood](https://app.ripplematch.com/job/robinhood/e93c5366/?from_page=company_branded_page) | Android SWE | USA | S23 | Grad Dec 2023 - Jul 2025 |
 | [Rogers Communications](https://jobs.rogers.com/job/Montreal-Winter-2023-Co-op-Software-Developer-QC/944332800/?feedId=24800&utm_source=Indeed&utm_campaign=Rogers_OrganicFeeds&jobPipeline=Indeed) | SWE | Montreal, QC | W23 | |
+| [Scotiabank](https://jobs.scotiabank.com/search/?createNewAlert=false&q=velocity&locationsearch=Toronto%2C+ON%2C+CA) | Multiple(Velocity) | Toronto, ON | S23 |  |
 | [Snap](https://wd1.myworkdaysite.com/recruiting/snapchat/snap/job/Los-Angeles-California/XMLNAME-2023-Software-Engineer-Intern_R0028836-1) | SWE | Los Angeles, Seattle, Palo Alto, New York | S23 | |
 | [Snowflake](https://careers.snowflake.com/us/en/job/SNCOUS6399242002EXTERNALENUS/Software-Engineer-Intern-Toronto-Summer-2023?utm_source=linkedin&utm_medium=phenom-feeds&gh_src=ed5543a62) | SWE | Toronto, ON | S23 | 3rd/4th year |
 | [Splunk](https://jobs.jobvite.com/careers/splunk/job/oYc5kfwj?__jvst=Job%20Board&__jvsd=Indeed) | Backend SWE | Vancouver, BC | W23 | |
@@ -54,9 +57,6 @@ We hope you find the information contained below useful and good luck on your co
 | [Unity](https://careers.unity.com/position/2023-software-engineer-summer-internship/4616966?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | SWE | Toronto, ON | S23 |
 | [Vidyard](https://boards.greenhouse.io/vidyard/jobs/4730019) | SWE | Remote Canada | S23 | Applications open in December, successful applicants notified in January 2023|
 | [Waymo](https://waymo.com/joinus/4612871/?gh_src=4f13ec551us) | SWE | Mountain View, CA | S23 | |
-| [RBC](https://jobs.rbc.com/ca/en/featuredopportunities/student-early-talent-jobs) | Multiple | Toronto, ON | S23 |  |
-| [Scotiabank](https://jobs.scotiabank.com/search/?createNewAlert=false&q=velocity&locationsearch=Toronto%2C+ON%2C+CA) | Multiple(Velocity) | Toronto, ON | S23 |  |
-| [BMO](https://bmo.wd3.myworkdayjobs.com/en-US/External?company=99ba898c88ac011c8a873c01f2016c06&Country=a30a87ed25634629aa6c3958aa2b91ea&jobFamilyGroup=c3170091f3cd01a93a216b6ad000d820) | Multiple | Toronto, ON | S23 |  |
 
 
 <div align="center" >
