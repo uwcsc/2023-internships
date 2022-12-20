@@ -1,0 +1,21 @@
+name: Autosort
+
+on:
+  push:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # checkout a local vopy of the repo
+      - name: Checkout temp repo copy
+        uses: actions/checkout@v3
+      # running the script to sort the tables in the README
+      - name: Running the table autosort
+        run: chmod +x ./sort.sh && ./sort.sh
+      # commit and push to current branch
+      - name: Commit and push changes
+        uses: devops-infra/action-commit-push@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          commit_message: Sorting the tables in the README
