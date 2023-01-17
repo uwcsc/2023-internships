@@ -24,6 +24,7 @@ We hope you find the information contained below useful and good luck on your co
 | [Dropbox](https://www.dropbox.com/jobs/listing/4380645?etd=LAFFER2UEHPRBMRQMBLKPPNZWXWPSGKUW5VCCN4UCV4HYFMMMYMFF5YFNVFWW4JM7YCJ3HLEFWVNDBXGJFD7S2TJAU5SU6AHIDIKWZB4IPCE2BWUZO6EQTCBISLFPR426EWUSF6IAOCGS%3d%3d%3d&piq_uuid=ba8fabc5-8e3b-4b70-9fd0-d3a54c78949e&clickuid=46428153212&pl_publisherid={%22ittk%22:%22ETI21OOTSV%22}&gh_src=e28a2e5d1us) | SWE | Remote USA or Canada | S23 | |
 | [Electronic Arts](https://ea.gr8people.com/jobs/175722/c-engineer-intern-summer-2023?geo_location=ChIJs0-pQ_FzhlQRi_OBm-qWkbs)| C++ Engineer | Vancouver, BC | S23 | Remote work option available |
 | [Google](https://careers.google.com/jobs/results/97935383573996230-software-engineering-intern-bs-summer-2023/) | SWE | Multiple locations | S23 | Posting is for US pool |
+| [HubSpot](https://www.hubspot.com/careers/students/intern-coop?hubs_signup-cta=careers-apply) | Frontend, Backend | Remote (US/Canada) or Cambridge, MA | F23 | |
 | [Intact](https://careers.intactfc.com/ca/en/job/IFCOUSR130403INTACTINSURANCEENCA/AI-Backend-Developer-4-Month-Co-op-Internship-Winter-2023?utm_source=indeed&utm_medium=phenom-feeds)|AI Backend Developer | Montreal, QC | W23 ||
 | [Interac](https://interac.wd3.myworkdayjobs.com/en-US/Interac)| Data Science | Toronto | S23 | |
 | [Interac](https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Software-Developer-Intern_REQ-468) | SWE | Toronto, ON | S23 | |
