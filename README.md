@@ -58,6 +58,7 @@ We hope you find the information contained below useful and good luck on your co
 | [Unity](https://careers.unity.com/position/2023-software-engineer-summer-internship/4616966?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | SWE | Toronto, ON | S23 |
 | [Vidyard](https://boards.greenhouse.io/vidyard/jobs/4730019) | SWE | Remote Canada | S23 | Applications open in December, successful applicants notified in January 2023|
 | [Waymo](https://waymo.com/joinus/4612871/?gh_src=4f13ec551us) | SWE | Mountain View, CA | S23 | |
+| [IBM](https://careers.ibm.com/job/17635090/machine-learning-developer-intern-may-4-months-remote/?codes=SN_LinkedIn) | ML Developer | Toronto, Calgary, Montreal | S23 | |
 
 
 <div align="center" >
