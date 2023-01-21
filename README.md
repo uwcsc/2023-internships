@@ -25,6 +25,7 @@ We hope you find the information contained below useful and good luck on your co
 | [Electronic Arts](https://ea.gr8people.com/jobs/175722/c-engineer-intern-summer-2023?geo_location=ChIJs0-pQ_FzhlQRi_OBm-qWkbs)| C++ Engineer | Vancouver, BC | S23 | Remote work option available |
 | [Google](https://careers.google.com/jobs/results/97935383573996230-software-engineering-intern-bs-summer-2023/) | SWE | Multiple locations | S23 | Posting is for US pool |
 | [HubSpot](https://www.hubspot.com/careers/students/intern-coop?hubs_signup-cta=careers-apply) | Frontend, Backend | Remote (US/Canada) or Cambridge, MA | F23 | |
+| [IBM](https://careers.ibm.com/job/17635090/machine-learning-developer-intern-may-4-months-remote/?codes=SN_LinkedIn) | ML Developer | Toronto, Calgary, Montreal | S23 | |
 | [Intact](https://careers.intactfc.com/ca/en/job/IFCOUSR130403INTACTINSURANCEENCA/AI-Backend-Developer-4-Month-Co-op-Internship-Winter-2023?utm_source=indeed&utm_medium=phenom-feeds)|AI Backend Developer | Montreal, QC | W23 ||
 | [Interac](https://interac.wd3.myworkdayjobs.com/en-US/Interac)| Data Science | Toronto | S23 | |
 | [Interac](https://interac.wd3.myworkdayjobs.com/en-US/Interac/job/Toronto/Software-Developer-Intern_REQ-468) | SWE | Toronto, ON | S23 | |
@@ -58,7 +59,6 @@ We hope you find the information contained below useful and good luck on your co
 | [Unity](https://careers.unity.com/position/2023-software-engineer-summer-internship/4616966?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic) | SWE | Toronto, ON | S23 |
 | [Vidyard](https://boards.greenhouse.io/vidyard/jobs/4730019) | SWE | Remote Canada | S23 | Applications open in December, successful applicants notified in January 2023|
 | [Waymo](https://waymo.com/joinus/4612871/?gh_src=4f13ec551us) | SWE | Mountain View, CA | S23 | |
-| [IBM](https://careers.ibm.com/job/17635090/machine-learning-developer-intern-may-4-months-remote/?codes=SN_LinkedIn) | ML Developer | Toronto, Calgary, Montreal | S23 | |
 
 
 <div align="center" >
