@@ -81,8 +81,8 @@ We hope you find the information contained below useful and good luck on your co
 ## Interview Prep Resources
 | Link | Notes |
 |------|-------|
-| [Tech Interview Handbook](https://www.techinterviewhandbook.org/) | Curated technical, behaviorial, and systems design interview preparation materials with algorithms study cheatsheets |
 | [LeetCode](https://leetcode.com/explore/) | Platform to prepare for technical interviews |
+| [Tech Interview Handbook](https://www.techinterviewhandbook.org/) | Curated technical, behaviorial, and systems design interview preparation materials with algorithms study cheatsheets |
 
 
 ### Contributors
