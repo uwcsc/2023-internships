@@ -78,6 +78,13 @@ We hope you find the information contained below useful and good luck on your co
 | [cscareers.dev](https://www.cscareers.dev/) | Tech community that releases internships, provides process tracking on applications (Discord link found at the bottom) |
 | [levels.fyi](https://www.levels.fyi/internships/) | General list of internships with salary and housing notes |
 
+## Interview Prep Resources
+| Link | Notes |
+|------|-------|
+| [Tech Interview Handbook](https://www.techinterviewhandbook.org/) | Curated technical, behaviorial, and systems design interview preparation materials with algorithms study cheatsheets |
+| [LeetCode](https://leetcode.com/explore/) | Platform to prepare for technical interviews |
+
+
 ### Contributors
 
 <a href="https://github.com/uwcsc/2023-internships/graphs/contributors">
