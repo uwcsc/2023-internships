@@ -82,7 +82,13 @@ We hope you find the information contained below useful and good luck on your co
 | Link | Notes |
 |------|-------|
 | [LeetCode](https://leetcode.com/explore/) | Platform to prepare for technical interviews |
-| [Tech Interview Handbook](https://www.techinterviewhandbook.org/) | Curated technical, behaviorial, and systems design interview preparation materials with algorithms study cheatsheets |
+| [Tech Interview Handbook](https://www.techinterviewhandbook.org/) | Curated technical, behaviorial, and systems design interview preparation materials with algorithms study cheatsheets | 
+
+## Table of Upskilling Resources 
+| Link | Notes |
+|------|-------|
+| [Developer Roadmap](https://roadmap.sh/) | Explore the next step you can take to advance your technical skills |
+| [Codeforce](https://codeforces.com/) | Complex coding problems to make your extra prepare for tech interviews. Note: Recommand to attempt Division A, B, C for interview. D above for competitive programming contests |
 
 
 ### Contributors
