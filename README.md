@@ -88,7 +88,7 @@ We hope you find the information contained below useful and good luck on your co
 | Link | Notes |
 |------|-------|
 | [Developer Roadmap](https://roadmap.sh/) | Explore the next step you can take to advance your technical skills |
-| [Codeforce](https://codeforces.com/) | Complex coding problems to make your extra prepare for tech interviews. Note: Recommand to attempt Division A, B, C for interview. D above for competitive programming contests |
+| [Codeforce](https://codeforces.com/) | Complex coding problems to make your extra prepare for tech interviews. Note: Recommand to attempt Division A, B, C for interview. D above for competitive programming contests. The letter shows the diffculty of the question and is at the end of each problem number. The level of diffculty increases as letter increases in order. For people aiming at ICPC, attempt E or above.|
 
 
 ### Contributors
