@@ -87,7 +87,7 @@ We hope you find the information contained below useful and good luck on your co
 ## Mentor Contacts 
 | Contact | Ask Me About This |
 |---------|-------------------|
-|         |                   |
+| [Felix](https://www.linkedin.com/in/yangf0917/) | Data Science, URAs, School, Interviewing, General SWE |
 
 
 
