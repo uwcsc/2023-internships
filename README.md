@@ -82,6 +82,7 @@ We hope you find the information contained below useful and good luck on your co
 | Link | Notes |
 |------|-------|
 | [LeetCode](https://leetcode.com/explore/) | Platform to prepare for technical interviews |
+| [Grind75](https://www.techinterviewhandbook.org/grind75) | List of Leetcode questions to follow (in order) |
 | [Tech Interview Handbook](https://www.techinterviewhandbook.org/) | Curated technical, behaviorial, and systems design interview preparation materials with algorithms study cheatsheets |
 
 ## Mentor Contacts
