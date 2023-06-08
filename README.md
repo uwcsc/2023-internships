@@ -88,8 +88,8 @@ We hope you find the information contained below useful and good luck on your co
 ## Mentor Contacts
 | Contact | Companies | Year + Program | Ask Me About This |
 |---------|-----------|----------------|-------------------|
-| [Felix](https://www.linkedin.com/in/yangf0917/) | Hubdoc/Xero, Wish, SBX Robotics, Google | 4A CS | Data Science, URAs, School, Interviewing, General SWE |
 | [Naman](https://www.linkedin.com/in/namansood/) |  |  | Web Dev, Networks/Infrastructure, General SWE, Courses/Degree Requirements, University Resources |
+| [Felix](https://www.linkedin.com/in/yangf0917/) | Hubdoc/Xero, Wish, SBX Robotics, Google | 4A CS | Data Science, URAs, School, Interviewing, General SWE |
 
 
 ### Contributors
