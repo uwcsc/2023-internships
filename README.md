@@ -86,10 +86,10 @@ We hope you find the information contained below useful and good luck on your co
 | [Tech Interview Handbook](https://www.techinterviewhandbook.org/) | Curated technical, behaviorial, and systems design interview preparation materials with algorithms study cheatsheets |
 
 ## Mentor Contacts
-| Contact | Ask Me About This |
-|---------|-------------------|
-| [Felix](https://www.linkedin.com/in/yangf0917/) | Data Science, URAs, School, Interviewing, General SWE |
-| [Naman](https://www.linkedin.com/in/namansood/) | Web Dev, Networks/Infrastructure, General SWE, Courses/Degree Requirements, University Resources |
+| Contact | Companies | Year + Program | Ask Me About This |
+|---------|-----------|----------------|-------------------|
+| [Felix](https://www.linkedin.com/in/yangf0917/) | Hubdoc/Xero, Wish, SBX Robotics, Google | 4A CS | Data Science, URAs, School, Interviewing, General SWE |
+| [Naman](https://www.linkedin.com/in/namansood/) |  |  | Web Dev, Networks/Infrastructure, General SWE, Courses/Degree Requirements, University Resources |
 
 
 ### Contributors
