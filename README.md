@@ -84,7 +84,13 @@ We hope you find the information contained below useful and good luck on your co
 | [Grind75](https://www.techinterviewhandbook.org/grind75) | List of Leetcode questions to follow (in order) |
 | [LeetCode 150](https://leetcode.com/studyplan/top-interview-150/) | 150 of the most popular technical interview questions |
 | [LeetCode](https://leetcode.com/explore/) | Platform to prepare for technical interviews |
-| [Tech Interview Handbook](https://www.techinterviewhandbook.org/) | Curated technical, behaviorial, and systems design interview preparation materials with algorithms study cheatsheets |
+| [Tech Interview Handbook](https://www.techinterviewhandbook.org/) | Curated technical, behaviorial, and systems design interview preparation materials with algorithms study cheatsheets | 
+
+## Table of Upskilling Resources 
+| Link | Notes |
+|------|-------|
+| [Developer Roadmap](https://roadmap.sh/) | Explore the next step you can take to advance your technical skills |
+| [Codeforce](https://codeforces.com/) | Complex coding problems to make your extra prepare for tech interviews. Note: Recommand to attempt Division A, B, C for interview. D above for competitive programming contests. The letter shows the diffculty of the question and is at the end of each problem number. The level of diffculty increases as letter increases in order. For people aiming at ICPC, attempt E or above.|
 
 ## Mentor Contacts
 | Contact | Companies | Year + Program | Ask Me About This |
